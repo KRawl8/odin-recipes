@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipe-heading {
+    background-color: beige;
+}
+
+.ingredients {
+    background-color: cadetblue;
+}
+
+.steps {
+    background-color: lightcyan;
+}
