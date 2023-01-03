@@ -13,3 +13,30 @@ body {
 .steps {
     background-color: lightcyan;
 }
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+}
+
+.recipe-item {
+    text-align: center;
+    list-style: none;
+}
+
+.recipe-item li {
+    font-size: 30px;
+    font-weight: 500;
+    margin: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+div {
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+}
